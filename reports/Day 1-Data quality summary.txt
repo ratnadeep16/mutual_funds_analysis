@@ -1,0 +1,2 @@
+Anomalies:
+Missing values : monthly_sip_inflow.csv have 12 missing values in column yoy_growth_pct.
